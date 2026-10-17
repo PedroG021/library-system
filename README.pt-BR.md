@@ -1,6 +1,6 @@
 🇺🇸 [English](README.md) | 🇧🇷 Português
 
-# Personal Library Management System
+# Sistema de Gerenciamento de Biblioteca Pessoal
 
 ## Descrição
 Um sistema de biblioteca pessoal feito em Python que roda diretamente no terminal (CLI) para ajudar os usuários a organizar seus livros. A aplicação se conecta à API do Google Books para buscar automaticamente os detalhes do livro (como título, autores e gêneros) durante o cadastro. Para manter a simplicidade, os dados são salvos localmente em um arquivo `storage.jsonl`, usando JSON Lines para persistência. Ela também gera gráficos com a biblioteca Matplotlib. Por fim, o projeto inclui testes automatizados em `test_project.py` com mocks, de modo que os testes rodam de forma independente, sem mexer no arquivo de armazenamento real e sem depender de a API do Google estar online.
