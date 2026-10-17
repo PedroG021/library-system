@@ -118,6 +118,10 @@ O gráfico da opção 4 é salvo como `graphic.png` na pasta atual.
 
 ---
 
+## Uso de IA
+
+Todo o código desta aplicação foi escrito por mim. Assistentes de IA foram usados apenas como apoio ao aprendizado, para tirar dúvidas e explicar conceitos, e na documentação (estrutura do README e tradução para o português).
+
 ## Limitações Conhecidas
 
 - Cadastrar o mesmo livro duas vezes cria duas entradas separadas.

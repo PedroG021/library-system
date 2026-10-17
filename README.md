@@ -118,6 +118,10 @@ The chart from option 4 is saved as `graphic.png` in the current folder.
 
 ---
 
+## AI Usage
+
+All application code in this project was written by me. AI assistants were used only as a learning aid, to clarify doubts and explain concepts, and to help with documentation (README structure and Portuguese translation).
+
 ## Known Limitations
 
 - Registering the same book twice creates two separate entries.
